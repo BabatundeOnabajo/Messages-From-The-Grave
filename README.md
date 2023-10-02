@@ -6,8 +6,11 @@ Messages from the Grave is an app that sends messages to loved ones in the event
 # Requirements
 
 # Instructions
+In order to use this program, please follow the instructions below:
+1. 
 
 # Credits
 Babatunde Onabajo (ChurchMapped Limited)
 
 # Disclaimer
+
