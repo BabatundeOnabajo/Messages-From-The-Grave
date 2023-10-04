@@ -1,9 +1,10 @@
 # Messages-From-The-Grave
-Messages from the Grave is an app that sends messages to loved ones in the event of the death of the email account holder to commemorate important milestones such as graduation, the birth of a child as well as a wedding. It uses the Nylas API as well as ChatGPT and is programmed in Java, using the Swing framework for its Graphical User Interface (GUI).
+Messages from the Grave is a desktop app that sends messages to loved ones in the event of the death of the email account holder to commemorate important milestones such as graduation, the birth of a child as well as a wedding. It uses the Nylas API as well as ChatGPT and is programmed in Java, using the Swing framework for its Graphical User Interface (GUI). It can be used on a Windows, Linux as well as macOS operating system. 
 
 # Background
 
 # Requirements
+In order to use this program, you need to have the following:
 
 # Instructions
 In order to use this program, please follow the instructions below:
