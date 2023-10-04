@@ -7,7 +7,7 @@ Messages from the Grave is an app that sends messages to loved ones in the event
 
 # Instructions
 In order to use this program, please follow the instructions below:
-1. 
+1. Please ensure that you have a Java Virtual Machine (JVM) installed on your machine.
 
 # Credits
 Babatunde Onabajo (ChurchMapped Limited)
