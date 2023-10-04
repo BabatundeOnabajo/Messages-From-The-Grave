@@ -13,4 +13,4 @@ In order to use this program, please follow the instructions below:
 Babatunde Onabajo (ChurchMapped Limited)
 
 # Disclaimer
-
+The code here does not represent the views of Nylas Inc or ChurchMapped Limited, nor should the publication of this program be construed as an endorsement of the aforementioned companies (or any past, present or future employer) in any way. Any trademarks used in this program are those of their respective holders.  
